@@ -1,0 +1,19 @@
+#container_wrapper{
+height: 40rem;
+width: 25rem;
+background-color: skyblue;
+}
+.container{
+    height: 20%;
+    width: 100%;
+    background-color: bisque;
+    display: grid;
+    place-content: center;
+}
+#inputField,#button{
+    height: 1rem;
+    width: 4rem;
+}
+#button{
+    background-color: blue;
+}
